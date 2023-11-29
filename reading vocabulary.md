@@ -14,7 +14,7 @@
 ## rudimentary, preliminary
 - adj. 基本的，基础的
 - fundamental, basic
-- I have only a rudimentary knowledge of chemistry.
+- I have only a rudimentary knowledge of chemistry.(我只有一些粗浅的（不成熟的）化学知识)
 - A preliminary examination(初试).
 
 
