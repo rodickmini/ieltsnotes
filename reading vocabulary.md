@@ -55,8 +55,8 @@
 
 - v. 促进, 激起
 - initiate immediately
-- What prompted you to apply this company?(是什么促使你选择这个公司呢？)
-
+- What prompted you to apply this company? (是什么促使你选择这个公司呢？)
+- This Saas company is known for its prompt service. (这家Saas公司以迅速的服务闻名。)
 
 ## underlie
 
@@ -64,20 +64,17 @@
 - based on, ground, root
 - Many factors underlie my decision.(我的决定以众多因素为基础)
 
-
 ## neglect
 
 - v. 忽视
 - ignore, overlook, underestimate
 - Don't neglect to lock the door.(别忘了锁门。)
 
-
 ## notwithstanding, nonetheless, nevertheless
 
 - 而非，而不是，尽管如此（转折）
 - rather than, whereas, although, though, instead
 - The teams played on, notwithstanding the rain.(尽管下雨，各队仍然比赛)
-
 
 ## stem from, derive
 
@@ -86,10 +83,42 @@
 - Her health problems stem from an accident.(她的健康问题源于一次事故。)
 - Humans derive meaning and pleasure from making stuff.(人类会从制造物品的过程中寻找意义和乐趣。)
 
+## compensate
 
+- v. 补偿
+- pay
+- The company compensated her for extra work.
 
+## reimbursement
+- n. 报销
 
+## feasible
 
+- adj. 可行的；可落地的
+- possible
+- It's not a feasible plan, because we don't have enough money.
 
+## chronic
 
+- adj. 慢性的
+- The man has a chronic disease.
 
+## acute
+
+- adj. 急性的；灵敏的
+- The death cause was acute toxicity.
+- A dog has a very acute sense of smell.
+
+## malicious
+
+- adj. 恶意的
+
+## entrepreneur
+- n. 企业家
+
+## bistro
+- n. 小酒馆
+
+## criteria
+
+- n. 标准
